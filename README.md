@@ -10,7 +10,7 @@ DevContainerに入って、以下のコマンドを実行。
 
 ```shell
 # TCPサーバ
-pyhton ./app/server.py
+python ./app/server.py
 
 # TCPクライアント
 python ./app/client.py
